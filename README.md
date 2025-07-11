@@ -6,7 +6,7 @@
 [![Quality](https://img.shields.io/badge/Quality-Near--Lossless-green.svg)](#)
 [![Format](https://img.shields.io/badge/Format-PDF%2FPNG%2FJPG→TIFF-orange.svg)](#)
 
-[中文](./README.md) | [English](./README_EN.md)
+[中文](./README.md) | [English](./README_EN.md) | [B站教程](https://www.bilibili.com/video/BV1DMGpzbEqr/?spm_id_from=333.1387.homepage.video_card.click&vd_source=33afd104a41faf98cb6a859069c293b4)
 
 **专业级PDF和图片转TIFF工具，采用先进算法实现几乎无损的高质量转换**
 

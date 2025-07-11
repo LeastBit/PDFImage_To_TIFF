@@ -117,6 +117,6 @@ TIFF文件已保存至: ./tiff_output
 
 **🌟 如果这个工具对您有帮助，请给个Star支持一下！**
 
-Made with 
+Made with ❤️ by [leastbit](https://github.com/leastbit)
 
 </div>

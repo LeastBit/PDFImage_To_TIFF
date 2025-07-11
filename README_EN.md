@@ -117,4 +117,6 @@ This project is open-sourced under the **MIT License**. Feel free to use, modify
 
 **🌟 If this tool helps you, please give it a Star!**
 
+Made with ❤️ by [leastbit](https://github.com/leastbit)
+
 </div>
